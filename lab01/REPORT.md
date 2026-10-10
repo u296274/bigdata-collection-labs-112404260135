@@ -48,11 +48,7 @@ images/01_device_api.png
 
 > 待补图：浏览器 DevTools 的 Network 面板，选中返回设备列表的 Fetch/XHR 请求，右侧 Headers 中可见 Request URL 与 Query String Parameters。
 
-插入：
-
-```markdown
-![Device API 发现证据](/lab01/images/01_device_api.png)
-```
+![Device API 发现证据](images/01_device_api.png)
 
 ---
 
@@ -69,16 +65,12 @@ images/01_device_api.png
 文件名：
 
 ```text
-images/02_company_source.png
+images/2_company_source.png
 ```
 
 > 待补图：`/companies` 的“查看网页源代码”页面，`Ctrl + F` 搜索企业名称并高亮命中位置。
 
-插入：
-
-```markdown
-![Company 静态加载证据](/lab01/images/2_company_source.png)
-```
+![Company 静态加载证据](images/2_company_source.png)
 
 ---
 
@@ -226,11 +218,7 @@ images/03_company_next.png
 
 > 待补图：DevTools 的 Elements 面板，页脚“下一页”对应的 `<a>` 元素被选中，能看清其 `class` 与 `href` 属性。
 
-插入：
-
-```markdown
-![Company 下一页元素](/lab01/images/03_company_next.png)
-```
+![Company 下一页元素](images/03_company_next.png)
 
 ---
 
@@ -302,11 +290,7 @@ unique device_id: 5000
 mismatch_count: 0
 ```
 
-插入：
-
-```markdown
-![最终验证结果](/lab01/images/04_validation.png)
-```
+![最终验证结果](images/04_validation.png)
 
 ---
 
